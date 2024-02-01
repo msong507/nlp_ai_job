@@ -2,7 +2,7 @@
 This project leveraged 200K+ news articles using NLP techniques including tokenization, lemmatization, topic analysis, sentiment analysis, and NER to analyze AI's Industry Impact on Employment.
 
 1. Data Preprocessing
-  1.NLP_FinalProject_cleaning
+- 1.NLP_FinalProject_cleaning
 
 2. Topic Analysis
   2.1.1.NLP_FinalProject_lda(finetuning)
