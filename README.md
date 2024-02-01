@@ -1,5 +1,6 @@
 # Analyzing AI's Industry Impact and Employment via Natural Language Processing
-This project leveraged 200K+ news articles using NLP techniques including tokenization, lemmatization, topic analysis, sentiment analysis, and NER to analyze AI's Industry Impact on Employment.
+- This project leveraged 200K+ news articles using NLP techniques including tokenization, lemmatization, topic analysis, sentiment analysis, and NER to analyze AI's Industry Impact on Employment.
+- For optimal performance in NLP projects, it is advisable to organize and save code based on sub-topics, employ sampling techniques, and conduct experiments using concise sentences before expanding further.
 
 1. Data Preprocessing
   - File Name: 1.NLP_FinalProject_cleaning
@@ -7,8 +8,8 @@ This project leveraged 200K+ news articles using NLP techniques including tokeni
 2. Topic Analysis
   - File Name: 2.1.1.NLP_FinalProject_lda(finetuning)
   - File Name: 2.1.2.NLP_FinalProject_lda(gensim)
-  - File Name: 2.2.1..NLP_FinalProject_lda(ktrain)
-  - File Name: 2.1.2.NLP_FinalProject_lda(gensim)
+  - File Name: 2.2.1.NLP_FinalProject_lda(ktrain)
+  - File Name: 2.2.2.NLP_FinalProject_lda(ktrain2)
   - File Name: 3.4.1.NLP_FinalProject_posenti_topic(BERT)
   - File Name: 3.4.2.NLP_FinalProject_nesenti_topic(BERT)
 
